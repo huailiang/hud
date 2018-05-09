@@ -1,6 +1,6 @@
 <p align="center">
 	 <a href="https://huailiang.github.io/">
-	    <img src="https://huailiang.github.io/img/cpp.jpeg" width="100" height="100">
+	    <img src="https://huailiang.github.io/img/avatar-Alex.jpg" width="100" height="100">
      </a>
 </p>
 
@@ -25,4 +25,9 @@
 
 
 
-此项目采用Unity的版本Unity2017.3f1
+此项目采用Unity的版本Unity2017.3f1, 项目里有两个例子：
+
+
+1. HudShow 采用GUI的Slider来更新血条
+
+2. DCShow  通过创建大量的hud，来查看drawcall的变化
