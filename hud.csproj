@@ -288,8 +288,8 @@
   <ItemGroup>
     <Compile Include="Assets\Examples\DCShow.cs" />
     <Compile Include="Assets\Examples\HudShow.cs" />
-    <Compile Include="Assets\Scripts\CubeMesh.cs" />
-    <Compile Include="Assets\Scripts\HudMesh.cs" />
+    <Compile Include="Assets\Scripts\Cube.cs" />
+    <Compile Include="Assets\Scripts\Hud.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Resources\VertxColorShader.shader" />
