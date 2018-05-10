@@ -4,6 +4,8 @@
      </a>
 </p>
 
+本文对应的blog地址：https://huailiang.github.io/2018/05/10/hud/
+
 目前unity里UI实现一般都是通过NGUI或者uGUI。
 
 ## 往往使用这些的UI的时候，会带来两个缺陷：
