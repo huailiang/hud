@@ -1,9 +1,3 @@
-<p align="center">
-	 <a href="https://huailiang.github.io/">
-	    <img src="https://huailiang.github.io/img/avatar-Alex.jpg" width="100" height="100">
-     </a>
-</p>
-
 本文对应的blog地址：https://huailiang.github.io/2018/05/10/hud/
 
 目前unity里UI实现一般都是通过NGUI或者uGUI。
